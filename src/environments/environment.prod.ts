@@ -1,4 +1,4 @@
 export const environment = {
     production: true,
-    apiUrl: 'https://ipt-2026-backend-mendez.onrender.com'
+    apiUrl: 'lab7-activity-backend.vercel.app'
 };
